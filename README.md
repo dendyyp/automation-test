@@ -7,7 +7,7 @@ How to run automation scenario
 Pros & Cons:
 Pros:
 - I setup the automation framework on local and it's worked
-- I have finished web automation and already running the scenario in local. The result is passed (evidence on email attachment)
+- I have finished web automation and already running the scenario in local. The result is passed (attached)
 
 Cons:
 - Unfortunately, I can't complete/finished API automation because I've got some issues when push commit (error message "error: failed to push some refs to 'https://github.com/dendyyp/automation-test.git'" so I should fix that error and it takes time
