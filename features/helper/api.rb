@@ -13,4 +13,3 @@ def api_response_debug(status_code)
       puts @response.body
  end
 end
-

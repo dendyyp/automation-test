@@ -13,4 +13,3 @@ Then("I should see search result for {string}") do |string|
     sleep 5
     find('[href="/course-detail/dasar-data-engineer-untuk-data-warehouse/COURSE-IY5A0WPF?courseType=SingleCourse"]')
 end
-
