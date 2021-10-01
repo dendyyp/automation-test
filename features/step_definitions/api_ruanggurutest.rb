@@ -10,6 +10,4 @@ path.gsub!('%25', '%')
 
 input = args.shift
 options = { headers: @headers, timeout: @timeout }
-
-rgx_enc = /\{\{([a-zA-Z0-9_]+)\}\}/
 end
