@@ -15,4 +15,4 @@ Cons:
 - I just started the test at 20.30 after squad meeting
 - Everything that happens makes time run out (waste of time)
 
-I just do my best to finished the test but time is limited. Thank you Ruangguru for the opportunity, and I accept all the results that will happen
+I just do my best to finished the test but time is limited. Thank you Ruangguru for the opportunity.
