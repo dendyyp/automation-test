@@ -10,7 +10,7 @@ Pros:
 - I have finished web automation and already running the scenario in local. The result is passed (attached)
 
 Cons:
-- Unfortunately, I can't complete/finished API automation because I've got some issues when push commit (error message "error: failed to push some refs to 'https://github.com/dendyyp/automation-test.git'" so I should fix that error and it takes time
+- Unfortunately, I can't complete/finished API automation because I've got some issues when push commit (error message "error: failed to push some refs to 'https://github.com/dendyyp/automation-test.git'") so I should fix that error and it takes time
 - I've got some issues related with my ruby version and Gemfile too
 - I just started the test at 20.30 after squad meeting
 - Everything that happens makes time run out (waste of time)
