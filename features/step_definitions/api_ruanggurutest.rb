@@ -11,4 +11,3 @@ path.gsub!('%25', '%')
 input = args.shift
 options = { headers: @headers, timeout: @timeout }
 end
-
