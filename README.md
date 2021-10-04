@@ -7,7 +7,7 @@ How to run automation scenario
 Advantages & Disadvantages:
 
 Advantages:
-- I setup the automation framework on local and it's worked
+- I setup the automation framework on local and it's work properly
 - I have finished web automation and already running the scenario in local. The result is passed (attached)
 
 Disadvantages:
